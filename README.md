@@ -1,1 +1,1 @@
-In diesem Project werde ich mithilfe von HTML eine Übersicht meiner Reise nach China zusammenstelen
+In diesem Project werde ich mithilfe von HTML eine Übersicht meiner Reise nach China zusammenstellen
