@@ -1,0 +1,36 @@
+body {
+    font-family: Verdana, Tahoma, "Times New Roman";
+    color: black;
+    margin: 0px;
+    margin-left: 48px;
+}
+h1 {
+    font-size: 72px;
+    color: black;
+    margin: 10px;
+    margin-left: 0px;
+}
+h2 {
+    font-size: 48px;
+}
+.list {
+    font-size: 48px;
+    color: yellow;
+}
+.hotellist {
+    font-size: 24px;
+}
+.sitlist {
+    font-size: 24px;
+}
+.link {
+    font-size: 12px;
+    color: grey;
+    margin-top: 5px;
+}
+.nav {
+    background-color: rgb(201, 201, 201);
+    padding: 10px;
+    margin-left: -48px;
+    padding-left: 48px;
+}
